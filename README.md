@@ -33,4 +33,5 @@ Method:GET
 
 	/api/user/details →Get user's details
 
-
+**Demo Video:**
+https://1drv.ms/v/c/592eb2e7bd9c342f/EQO7CKe8w8RBpoItUPSzTEAB4TfN_N9qungxt_G5l4y8PQ?e=P1oPmm
