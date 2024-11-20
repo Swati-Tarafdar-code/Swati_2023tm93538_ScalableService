@@ -15,7 +15,7 @@
 
 Method:POST
 
- /api/user/auth/register →Register a new user.
+	 /api/user/auth/register →Register a new user.
  
 Method:POST
 
@@ -23,14 +23,14 @@ Method:POST
   
 Method:POST
 
-api/user/auth/request-reset-password →Option to reset password
+	api/user/auth/request-reset-password →Option to reset password
 
 Method:POST
 
-/reset-password/:token →Get user's progress.
+	/reset-password/:token →Get user's progress.
 
 Method:GET
 
-/api/user/details →Get user's details
+	/api/user/details →Get user's details
 
 
