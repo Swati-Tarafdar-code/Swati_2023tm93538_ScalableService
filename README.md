@@ -12,15 +12,25 @@
 9. Version: 11.19.0
 
 **End points**
+
 Method:POST
+
  /api/user/auth/register →Register a new user.
+ 
 Method:POST
+
 	 /api/user/auth/login →User login and token generation.
+  
 Method:POST
+
 api/user/auth/request-reset-password →Option to reset password
+
 Method:POST
+
 /reset-password/:token →Get user's progress.
+
 Method:GET
+
 /api/user/details →Get user's details
 
 
