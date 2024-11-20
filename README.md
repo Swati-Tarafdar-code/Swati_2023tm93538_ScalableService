@@ -1,4 +1,5 @@
 **Purpose:** User Registration and Authentication:User will able to create new account and login . User also can reset password incase forgot the password or want to change with security token.
+
 **Technology stack:**
 1. User Module:
 2. Database: MySql  
